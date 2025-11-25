@@ -10,4 +10,4 @@
    ![C](put.jpg)
 
 4. *Delete*
-   ![D](delete.jpg)
+   ![D](deletee.jpg)
